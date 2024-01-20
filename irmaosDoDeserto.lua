@@ -8,7 +8,7 @@ local integrantes = "Gaara, Kankuro, Temari"
 local emojiTeam = "🏜️👊"
 local CharVillage = "Vila Oculta da Areia"
 local villageEmoji = "🏜️"
-local teamSpecialty = "Combinação de controle de areia, marionetismo e jutsus do vento."
+local teamSpecialty = "Combinação de controle de areia,\n|marionetismo e jutsus do vento."
 local specialtyEmoji = "🏜️🤖🌪️"
 
 -- MEDIA DOS ATRIBUTOS DOS PERSONAGENS DO TIME
