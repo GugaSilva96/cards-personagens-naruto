@@ -11,7 +11,7 @@ local charSpecialty = "Rasengan"
 local specialtyEmoji = "🫳🌀 🫴 🌀"
 local charTeam = 7
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DO PERSONAGEM NARUTO
 local ninjutsuAtribute = 8
 local taijustiAtributre = 7
 local genjutsuAtribute = 8
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTACAO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|         Card de Apresentação de Naruto        |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiNaruto)

@@ -11,7 +11,7 @@ local charSpecialty = "Jutsu do Cigarro"
 local specialtyEmoji = "💨"
 local charTeam = 10
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DO PERSONAGEM ASUMA
 local ninjutsuAtribute = 7
 local taijustiAtributre = 8
 local genjutsuAtribute = 5
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|          Card de Apresentação de Asuma        |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiAsuma)

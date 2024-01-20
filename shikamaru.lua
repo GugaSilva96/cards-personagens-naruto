@@ -11,7 +11,7 @@ local charSpecialty = "Estratégia"
 local specialtyEmoji = "🧠"
 local charTeam = 10
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DO PERSONAGEM SHIKAMARU
 local ninjutsuAtribute = 6
 local taijustiAtributre = 5
 local genjutsuAtribute = 5
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|        Card de Apresentação de Shikamaru      |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiShikamaru)

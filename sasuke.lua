@@ -11,7 +11,7 @@ local charSpecialty = "Sharingan"
 local specialtyEmoji = "👁️"
 local charTeam = 7
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DO PERSONAGEM SASUKE
 local ninjutsuAtribute = 8
 local taijustiAtributre = 7
 local genjutsuAtribute = 8
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|        Card de Apresentação de Sasuke         |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiSasuke)

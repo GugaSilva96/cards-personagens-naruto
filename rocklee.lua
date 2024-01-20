@@ -10,7 +10,7 @@ local rockLeeVillageEmoji = "🍃"
 local rockLeeSpecialty = "Taijutsu Puro"
 local rockLeeSpecialtyEmoji = "💪"
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DO PERSONAGEM ROCK-LEE
 local rockLeeNinjutsuAtribute = 2
 local rockLeeTaijutsuAtributre = 10
 local rockLeeGenjutsuAtribute = 1
@@ -37,7 +37,7 @@ end
 -- CARD DE APRESENTAÇÃO INDIVIDUAL DE ROCK LEE
 
 print("|===============================================|")
-print("|          Card de apresentação de Personagem   |")
+print("|         Card de Apresentação de Rock-Lee      |")
 print("|===============================================|")
 print("|")
 print("|".. rockLeeName, rockLeeEmoji)

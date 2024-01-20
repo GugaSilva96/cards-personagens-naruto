@@ -9,9 +9,9 @@ local CharVillage = "Vila Oculta da Areia"
 local villageEmoji = "🏜️"
 local charSpecialty = "Jutsus do Vento"
 local specialtyEmoji = "🌪️"
-local charTeam = "Trio do Gaara"
+local charTeam = "Irmâos do Deserto"
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DA PERSONAGEM TEMARI
 local ninjutsuAtribute = 7
 local taijustiAtributre = 7
 local genjutsuAtribute = 6
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|         Card de Apresentação de Temari        |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiTemari)

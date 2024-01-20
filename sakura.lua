@@ -11,7 +11,7 @@ local charSpecialty = "Jutsu Médico"
 local specialtyEmoji = "⚕️"
 local charTeam = 7
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DA PERSONAGEM SAKURA
 local ninjutsuAtribute = 6
 local taijustiAtributre = 7
 local genjutsuAtribute = 5
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|         Card de Apresentação de Sakura        |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiSakura)

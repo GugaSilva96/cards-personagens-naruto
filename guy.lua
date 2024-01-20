@@ -37,7 +37,7 @@ end
 -- CARD DE APRESENTAÇÃO INDIVIDUAL DE MIGHT GUY
 
 print("|===============================================|")
-print("|          Card de apresentação de Personagem   |")
+print("|          Card de Apresentação de Guy          |")
 print("|===============================================|")
 print("|")
 print("|".. guyName, guyEmoji)

@@ -5,7 +5,7 @@ os.execute("65001")
 local jiraiyaName = "Jiraiya"
 local jiraiyaDescription = "Lendário Sannin, mestre de Naruto Uzumaki."
 local jiraiyaEmoji = "🐸📘"
-local jiraiyaVillage = "Konohagakure"
+local jiraiyaVillage = "Konohagakure, Vila Oculta da Folha"
 local jiraiyaVillageEmoji = "🍃"
 local jiraiyaSpecialty = "Senjutsu, Ninjutsu de Invocação"
 local jiraiyaSpecialtyEmoji = "🌀🔮"
@@ -37,7 +37,7 @@ end
 
 -- CARD DE APRESENTAÇÃO DO JIRAIYA
 print("|===============================================|")
-print("|        Card de apresentação de Jiraiya        |")
+print("|        Card de Apresentação de Jiraiya        |")
 print("|===============================================|")
 print("|")
 print("|".. jiraiyaName, jiraiyaEmoji)

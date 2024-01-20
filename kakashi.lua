@@ -11,7 +11,7 @@ local charSpecialty = "Sharingan, Raikiri"
 local specialtyEmoji = "👁️, ⚡️"
 local charTeam = 7
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DO PERSONAGEM KAKASHI
 local ninjutsuAtribute = 9
 local taijustiAtributre = 8
 local genjutsuAtribute = 8
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|         Card de Apresentação de Kakashi       |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiKakashi)

@@ -11,7 +11,7 @@ local charSpecialty = "Controle Mental"
 local specialtyEmoji = "💭"
 local charTeam = 10
 
--- ATRIBUTOS DO PERSONAGEM
+-- ATRIBUTOS DA PERSONAGEM INO
 local ninjutsuAtribute = 7
 local taijustiAtributre = 5
 local genjutsuAtribute = 6
@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|           Card de Apresentação de Ino         |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiIno)

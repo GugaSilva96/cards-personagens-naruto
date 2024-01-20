@@ -38,7 +38,7 @@ end
 -- CARD DE APRESENTAÇÃO
 
 print("|===============================================|")
-print("|              Card de Personagem               |")
+print("|         Card de Apresentação de Kankuro      |")
 print("|===============================================|")
 print("|")
 print("|".. charName, emojiKankuro)

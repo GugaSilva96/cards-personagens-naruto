@@ -36,7 +36,7 @@ end
 
 -- CARD DE APRESENTAÇÃO DO OROCHIMARO
 print("|===============================================|")
-print("|       Card de apresentação de Orochimaro      |")
+print("|       Card de Apresentação de Orochimaro      |")
 print("|===============================================|")
 print("|")
 print("|".. orochimaroName, orochimaroEmoji)
