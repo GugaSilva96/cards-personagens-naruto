@@ -6,7 +6,7 @@ os.execute("65001")
 local tsunadeName = "Tsunade"
 local tsunadeDescription = "Quinta Hokage, mestra do Ninjutsu Médico."
 local tsunadeEmoji = "👊🌸"
-local tsunadeVillage = "KonohagaKonohagakure, Vila Oculta da Folhakure"
+local tsunadeVillage = "Konohagakure, Vila Oculta da Folha"
 local tsunadeVillageEmoji = "🍃"
 local tsunadeSpecialty = "Ninjutsu Médico, Taijutsu"
 local tsunadeSpecialtyEmoji = "💉💪"
