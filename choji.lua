@@ -3,7 +3,7 @@ os.execute("65001")
 
 -- PERSONAGEM
 local charName = "Choji Akimichi"
-local description = "O gigante gentil, conhecido por sua força, lealdade \n|e sua paixão única por técnicas alimentares.\n|Seu coração generoso é tão grande quanto seu corpo robusto,\n|e ele demonstra uma força extraordinária,\n|especialmente quando utiliza suas técnicas alimentares para amplificar seus poderes.\n|Choji, muitas vezes subestimado,\n|revela sua verdadeira força nos momentos cruciais,\n|provando ser um membro valioso da equipe."
+local description = "O gigante gentil, conhecido por sua força,\n|lealdade e sua paixão única por técnicas\n|alimentares. Seu coração generoso é tão grande\n|quanto seu corpo robusto, e ele demonstra uma\n|força extraordinária, especialmente quando\n|utiliza suas técnicas alimentares para amplificar\n|seus poderes. Choji, muitas vezes subestimado,\n|revela sua verdadeira força nos momentos cruciais,\n|provando ser um membro valioso da equipe."
 local emojiChoji = "🍱💪"
 local CharVillage = "Konohagakure, Vila Oculta da Folha"
 local villageEmoji = "🍃"

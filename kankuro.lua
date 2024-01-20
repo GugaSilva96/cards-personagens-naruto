@@ -3,7 +3,7 @@ os.execute("65001")
 
 -- PERSONAGEM
 local charName = "Kankuro"
-local description = "Um habilidoso marionetista e irmão mais velho de Gaara,\n|Kankuro é especialista em combate à distância usando suas marionetes."
+local description = "Um habilidoso marionetista e irmão mais velho de\n|Gaara, Kankuro é especialista em combate\n|à distância usando suas marionetes."
 local emojiKankuro = "🤖🎭"
 local CharVillage = "Vila Oculta da Areia"
 local villageEmoji = "🏜️"

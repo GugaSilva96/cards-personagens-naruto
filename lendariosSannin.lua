@@ -8,7 +8,7 @@ local integrantes = "Orochimaro, Tsunade"
 local emojiTeam = "🐸🐍👊"
 local CharVillage = "Konohagakure, Vila Oculta da Folha"
 local villageEmoji = "🍃"
-local teamSpecialty = "Diversidade de habilidades lendárias."
+local teamSpecialty = "Diversidade de habilidades\n|lendárias."
 local specialtyEmoji = "🔮💉💪"
 
 -- MÉDIA DOS ATRIBUTOS DOS PERSONAGENS DO TIME

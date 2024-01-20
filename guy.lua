@@ -3,7 +3,7 @@ os.execute("65001")
 
 -- PERSONAGEM
 local guyName = "Might Guy"
-local guyDescription = "Um dos ninjas mais fortes e dedicados de Konohagakure,\n|especialista em taijutsu."
+local guyDescription = "Um dos ninjas mais fortes e dedicados de\n|Konohagakure, especialista em taijutsu."
 local guyEmoji = "🌟👍"
 local guyVillage = "Konohagakure, Vila Oculta da Folha"
 local guyVillageEmoji = "🍃"
