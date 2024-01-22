@@ -9,6 +9,7 @@ local tentenVillage = "KonohagaKonohagakure, Vila Oculta da Folhakure"
 local tentenVillageEmoji = "🍃"
 local tentenSpecialty = "Ferramentas Ninja"
 local tentenSpecialtyEmoji = "🔧"
+local charTeam = 9
 
 -- ATRIBUTOS DA PERSONAGEM TENTEN
 local tentenNinjutsuAtribute = 3
@@ -45,6 +46,8 @@ print("|")
 print("|".. tentenDescription)
 print("|")
 print("|Aldeia: ".. tentenVillage, tentenVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. tentenSpecialty..tentenSpecialtyEmoji)
 print("|")

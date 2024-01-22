@@ -1,24 +1,24 @@
 -- Configurando a codificação para UTF-8
 os.execute("65001")
 
--- PERSONAGEM
-local charName = "Kankuro"
-local description = "Um habilidoso marionetista e irmão mais velho de\n|Gaara, Kankuro é especialista em combate\n|à distância usando suas marionetes."
-local emojiKankuro = "🤖🎭"
-local CharVillage = "Vila Oculta da Areia"
-local villageEmoji = "🏜️"
-local charSpecialty = "Marionetismo"
-local specialtyEmoji = "🎭"
-local charTeam = "Irmâos do Deserto"
+-- TIME DOS LENDÁRIOS SENIN
+local teamName = "Lendários Sannin"
+local teamLider = "Jiraiya"
+local integrantes = "Orochimaro, Tsunade"
+local emojiTeam = "🐸🐍👊"
+local CharVillage = "Konohagakure, Vila Oculta da Folha"
+local villageEmoji = "🍃"
+local teamSpecialty = "Diversidade de habilidades lendárias."
+local specialtyEmoji = "🔮💉💪"
 
--- ATRIBUTOS DO PERSONAGEM KANKURO
-local ninjutsuAtribute = 8
-local taijustiAtributre = 6
-local genjutsuAtribute = 5
-local speedAtribute = 7
-local strenghAtribute = 7
-local charIntelligence = 7
-local charChakra = 8
+-- MÉDIA DOS ATRIBUTOS DOS PERSONAGENS DO TIME
+local ninjutsuAtribute = (9 + 9 + 8) / 3
+local taijustiAtributre = (8 + 7 + 9) / 3
+local genjutsuAtribute = (7 + 8 + 7) / 3
+local speedAtribute = (8 + 8 + 8) / 3
+local strenghAtribute = (8 + 7 + 10) / 3
+local charIntelligence = (9 + 10 + 8) / 3
+local charChakra = (10 + 10 + 9) / 3
 
 -- FUNÇÃO QUE RECEBE ATRIBUTOS E APRESENTA EM BARRAS DE PROGRESSO
 local function getProgressBar(atribute)
@@ -35,24 +35,25 @@ local function getProgressBar(atribute)
     return result
 end
 
--- CARD DE APRESENTAÇÃO
-
+-- CARD DE APRESENTAÇÃO DO TIME DOS LENDÁRIOS SENIN
 print("|===============================================|")
-print("|         Card de Apresentação de Kankuro      |")
+print("|        Card de apresentação dos Lendários     |")
 print("|===============================================|")
 print("|")
-print("|".. charName, emojiKankuro)
+print("|".. teamName, emojiTeam)
 print("|")
-print("|".. description)
+print("|Líder do time: "..teamLider)
+print("|")
+print("|Integrantes do time:")
+print("|".. integrantes)
 print("|")
 print("|Aldeia: ".. CharVillage, villageEmoji)
 print("|")
-print("|Equipe: "..charTeam)
 print("|")
-print("|Especialidade: ".. charSpecialty..specialtyEmoji)
+print("|Especialidade: ".. teamSpecialty..specialtyEmoji)
 print("|")
 print("|")
-print("|ATRIBUTOS: ")
+print("|MÉDIA DE ATRIBUTOS DO TIME: ")
 print("|")
 print("|Ninjutsu    : ".. getProgressBar(ninjutsuAtribute))
 print("|Taijutsu    : ".. getProgressBar(taijustiAtributre))

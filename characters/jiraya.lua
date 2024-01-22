@@ -9,6 +9,7 @@ local jiraiyaVillage = "Konohagakure, Vila Oculta da Folha"
 local jiraiyaVillageEmoji = "🍃"
 local jiraiyaSpecialty = "Senjutsu, Ninjutsu de Invocação"
 local jiraiyaSpecialtyEmoji = "🌀🔮"
+local charTeam = "Lendários Sannin"
 
 local jiraiyaNinjutsuAtribute = 9
 local jiraiyaTaijutsuAtributre = 8
@@ -45,6 +46,8 @@ print("|")
 print("|".. jiraiyaDescription)
 print("|")
 print("|Aldeia: ".. jiraiyaVillage, jiraiyaVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. jiraiyaSpecialty..jiraiyaSpecialtyEmoji)
 print("|")

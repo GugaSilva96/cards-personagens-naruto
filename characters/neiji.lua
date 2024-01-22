@@ -9,6 +9,7 @@ local nejiVillage = "Konohagakure"
 local nejiVillageEmoji = "🍃"
 local nejiSpecialty = "Byakugan e Taijutsu"
 local nejiSpecialtyEmoji = "👀💪"
+local charTeam = 9
 
 -- ATRIBUTOS DO PERSONAGEM NEIJI
 local nejiNinjutsuAtribute = 5
@@ -45,6 +46,8 @@ print("|")
 print("|".. nejiDescription)
 print("|")
 print("|Aldeia: ".. nejiVillage, nejiVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. nejiSpecialty..nejiSpecialtyEmoji)
 print("|")

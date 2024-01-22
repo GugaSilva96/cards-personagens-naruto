@@ -9,6 +9,7 @@ local rockLeeVillage = "Konohagakure, Vila Oculta da Folha"
 local rockLeeVillageEmoji = "🍃"
 local rockLeeSpecialty = "Taijutsu Puro"
 local rockLeeSpecialtyEmoji = "💪"
+local charTeam = 9
 
 -- ATRIBUTOS DO PERSONAGEM ROCK-LEE
 local rockLeeNinjutsuAtribute = 2
@@ -45,6 +46,8 @@ print("|")
 print("|".. rockLeeDescription)
 print("|")
 print("|Aldeia: ".. rockLeeVillage, rockLeeVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. rockLeeSpecialty..rockLeeSpecialtyEmoji)
 print("|")

@@ -10,6 +10,7 @@ local tsunadeVillage = "Konohagakure, Vila Oculta da Folha"
 local tsunadeVillageEmoji = "🍃"
 local tsunadeSpecialty = "Ninjutsu Médico, Taijutsu"
 local tsunadeSpecialtyEmoji = "💉💪"
+local charTeam = "Lendários Sannin"
 
 local tsunadeNinjutsuAtribute = 8
 local tsunadeTaijutsuAtributre = 9
@@ -44,6 +45,8 @@ print("|")
 print("|".. tsunadeDescription)
 print("|")
 print("|Aldeia: ".. tsunadeVillage, tsunadeVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. tsunadeSpecialty..tsunadeSpecialtyEmoji)
 print("|")

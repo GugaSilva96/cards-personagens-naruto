@@ -9,6 +9,7 @@ local guyVillage = "Konohagakure, Vila Oculta da Folha"
 local guyVillageEmoji = "🍃"
 local guySpecialty = "Taijutsu Extremo e Poderoso"
 local guySpecialtyEmoji = "💥💪"
+local charTeam = 9
 
 -- ATRIBUTOS DO PERSONAGEM
 local guyNinjutsuAtribute = 3
@@ -45,6 +46,8 @@ print("|")
 print("|".. guyDescription)
 print("|")
 print("|Aldeia: ".. guyVillage, guyVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. guySpecialty..guySpecialtyEmoji)
 print("|")

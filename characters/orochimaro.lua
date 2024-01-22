@@ -9,6 +9,7 @@ local orochimaroVillage = "Anteriormente Konohagakure"
 local orochimaroVillageEmoji = "🍃"
 local orochimaroSpecialty = "Fuinjutsu, Ninjutsu Médico"
 local orochimaroSpecialtyEmoji = "🔒💉"
+local charTeam = "Lendários Sannin"
 
 local orochimaroNinjutsuAtribute = 9
 local orochimaroTaijutsuAtributre = 7
@@ -44,6 +45,8 @@ print("|")
 print("|".. orochimaroDescription)
 print("|")
 print("|Aldeia: ".. orochimaroVillage, orochimaroVillageEmoji)
+print("|")
+print("|Equipe: "..charTeam)
 print("|")
 print("|Especialidade: ".. orochimaroSpecialty..orochimaroSpecialtyEmoji)
 print("|")
