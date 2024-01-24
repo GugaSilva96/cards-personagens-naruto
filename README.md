@@ -45,7 +45,7 @@ Uma jogada inteligente, certo? Mas a Akatsuki não desiste fácil!
 **Atenção**: Agora, você, como usuário destemido, terá a chance de interagir diretamente com o código e tentar desfazer o Jutsu que selou o Pergaminho Lunático! O arquivo "pergaminho.lua" é onde toda a mágica acontece.
 
 ### Como Funciona
-* 		Escolha Seu Vilão Favorito da Akatsuki: Abra o pergaminho.lua e escolha um personagem da Akatsuki. Pode ser o Pain, Konan, Itachi, ou qualquer outro que você curta. Insira o número correspondente.
+* 		Escolha Seu Vilão Favorito da Akatsuki:  Abra o pergaminho.lua e escolha um personagem da Akatsuki.  Pode ser o Pain, Konan, Itachi, ou qualquer outro que você curta.  Insira o número correspondente.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⢐⣒⣉⣉⣉⣉⣒⡲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
