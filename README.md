@@ -1,4 +1,4 @@
-```# Naruto Character Cards - Pergaminho Lunático
+# Naruto Character Cards - Pergaminho Lunático
 E aí, pessoal! Sou eu, o Naruto Uzumaki! E estou animado para compartilhar uma experiência incrível com vocês. Preparem-se para mergulhar no mundo dos Ninjas com os Cards de Personagens do Anime Naruto, tudo na linguagem Lua!
 
 # A História Continua...
