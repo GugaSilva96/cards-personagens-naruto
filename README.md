@@ -242,7 +242,7 @@ Se você acha que pode melhorar essa experiência ou adicionar mais personagens 
 
 E se você ficou intrigado com essa incrível jornada ninja de programação, não perca a chance de mergulhar ainda mais fundo na história! Confira o artigo completo sobre essa aventura eletrizante em meu repositório. Descubra os bastidores da batalha digital, os segredos da tecnologia Ninja e como a programação se tornou uma arma poderosa para a Aldeia da Folha.
 
-[📜 Leia o Artigo Completo]()
+[📜 Leia o Artigo Completo](https://dio.me/articles/desvendando-os-jutsus-da-lua-uma-jornada-com-naruto-uzumaki )
 
 E se quiser manter-se atualizado sobre minhas próximas aventuras e projetos, conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-silva-663186276/)! Estou sempre compartilhando conhecimentos e histórias do mundo Shinobi, além de insights sobre programação e desenvolvimento.
 
