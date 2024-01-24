@@ -92,7 +92,7 @@ Uma jogada inteligente, certo? Mas a Akatsuki não desiste fácil!
 - ("TÉCNICA LUA")
 
 # O Desafio
-A Akatsuki está por aí tentando desfazer meu selo e acessar as informações dos Cards. Escolha seu personagem preferido e tente aplicar a técnica coreto para desfazer o Jutsu Lunático Secreto! 
+A Akatsuki está por aí tentando desfazer meu selo e acessar as informações dos Cards. Escolha seu personagem preferido e tente aplicar a técnica correta para desfazer o Jutsu Lunático Secreto! 
 
 
 # Apresentação do código:
