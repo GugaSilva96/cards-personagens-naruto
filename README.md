@@ -83,7 +83,7 @@ Uma jogada inteligente, certo? Mas a Akatsuki não desiste fácil!
 * Digite o Jutsu Secreto Lunático para desfazer o Selamento do Pergaminho: 
 
 
-* 		**A Magia Acontece**: Assim que inserir o Jutsu correto, o Pergaminho Lunático será aberto, revelando os Cards dos Ninjas. 
+* 		A Magia Acontece: Assim que inserir o Jutsu correto, o Pergaminho Lunático será aberto, revelando os Cards dos Ninjas. 
 **Você terá a oportunidade de ver não apenas os personagens individualmente, mas também médias de times inteiros!**
 
 ### Dica para  nome do Jutsu que é capaz de retirar o Selo do Pergaminho:
