@@ -79,9 +79,8 @@ Digite o número do seu personagem:
  		Depois de escolher seu vilão, você precisa inserir o Jutsu Secreto Correto para desfazer o selo.
  		Preste atenção, pois só o Jutsu correto irá desfazer o Jutsu Lunático Secreto.
 
-```lua
-Digite o Jutsu Secreto Lunático para desfazer o Selamento do Pergaminho: 
-```
+* Digite o Jutsu Secreto Lunático para desfazer o Selamento do Pergaminho: 
+
 
 * 		**A Magia Acontece**: Assim que inserir o Jutsu correto, o Pergaminho Lunático será aberto, revelando os Cards dos Ninjas. 
 **Você terá a oportunidade de ver não apenas os personagens individualmente, mas também médias de times inteiros!**
