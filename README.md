@@ -46,6 +46,7 @@ Uma jogada inteligente, certo? Mas a Akatsuki não desiste fácil!
 
 ### Como Funciona
 * 		Escolha Seu Vilão Favorito da Akatsuki:
+  
  		Abra o pergaminho.lua e escolha um personagem da Akatsuki.
  		Pode ser o Pain, Konan, Itachi, ou qualquer outro que você curta.
  		Insira o número correspondente.
@@ -72,10 +73,10 @@ Uma jogada inteligente, certo? Mas a Akatsuki não desiste fácil!
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⢀⠀⠉⢉⠉⢁⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⢰⠀⠀⢀⠀⠀⡆⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠈⠀⠀⠈⠀⠈⠀⠀⠠⠆⠀⠆⠀⠀⠀⠀⠈⠀⠀⠘⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-``` lua
-Digite o número do seu personagem: 
-```
-* 		Insira o Jutsu Correto para Desfazer o Selo:
+
+* Digite o número do seu personagem: 
+
+   Insira o Jutsu Correto para Desfazer o Selo:
  		Depois de escolher seu vilão, você precisa inserir o Jutsu Secreto Correto para desfazer o selo.
  		Preste atenção, pois só o Jutsu correto irá desfazer o Jutsu Lunático Secreto.
 
