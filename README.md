@@ -72,7 +72,7 @@ Uma jogada inteligente, certo? Mas a Akatsuki não desiste fácil!
 ``` lua
 Digite o número do seu personagem: 
 ```
-* 		Insira o Jutsu Correto para Desfazer o Selo: Depois de escolher seu vilão, você precisa inserir o Jutsu Secreto Correto para desfazer o selo. Preste atenção, pois só o Jutsu correto irá desfazer o Jutsu Lunático Secreto.
+* 		Insira o Jutsu Correto para Desfazer o Selo:  Depois de escolher seu vilão, você precisa inserir o Jutsu Secreto Correto para desfazer o selo.  Preste atenção, pois só o Jutsu correto irá desfazer o Jutsu Lunático Secreto.
 
 ```lua
 Digite o Jutsu Secreto Lunático para desfazer o Selamento do Pergaminho: 
