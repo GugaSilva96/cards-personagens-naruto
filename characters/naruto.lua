@@ -36,7 +36,7 @@ local function getProgressBar(atribute)
 end
 
 -- CARD DE APRESENTACAO
-
+local function showCard()
 print("|===============================================|")
 print("|         Card de Apresentação de Naruto        |")
 print("|===============================================|")
@@ -65,3 +65,4 @@ print("|Inteligência: ".. getProgressBar(charIntelligence))
 print("|Chakra      : ".. getProgressBar(charChakra))
 print("|")
 print("|_______________________________________________|")
+end
