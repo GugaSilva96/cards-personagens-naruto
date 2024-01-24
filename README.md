@@ -248,7 +248,8 @@ E se quiser manter-se atualizado sobre minhas próximas aventuras e projetos, co
 
 [🔗 Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/gustavo-silva-663186276/)
 
-Não perca essa oportunidade de explorar o universo único onde a programação se encontra com o Ninjutsu! Juntos, podemos desbravar novos horizontes na arte da codificação. 🌟
+Não perca essa oportunidade de explorar o universo único onde a programação se encontra com o Ninjutsu! Juntos, podemos desbravar novos horizontes na arte da codificação. 🌟  
+
 Prepare-se para uma jornada ninja incrível e que a Lua esteja com vocês, pessoal! 🌙✨
 
 
